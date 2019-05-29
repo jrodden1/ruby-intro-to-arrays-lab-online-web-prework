@@ -8,5 +8,8 @@ def array_with_two_elements
   arr2
   arr3 = [{}, {}]
   arr3
+end
 
+def first_element(array)
+  array[0]
 end
